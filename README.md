@@ -1,4 +1,4 @@
-# Cardiovascular Prediction
+#Netflix_Movies_Recommendation
 
 In this project, I have clustered similar movies and TV shows available on Netflix taking into account attributes like description, cast, director, genre etc. for a particular movie/show
 ## Project Files Description
